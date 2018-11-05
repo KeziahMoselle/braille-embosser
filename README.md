@@ -33,8 +33,8 @@
 ## Features
 
   * **Application**
-    * [x] Envoyer le texte à imprimer au Raspberry Pi.
-    * [x] Communiquer avec le Raspberry Pi via Wi-Fi.
+    * [x] Send text via WS to the RPI
+    * [x] Communication between App and RPI via Wi-Fi
     * ~~Voice recognition.~~
     * ~~NFC.~~
   * **Server**
