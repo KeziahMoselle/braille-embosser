@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "L:\\Remote\\braille-embosser\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\Keziah\\.android\\build-cache\\87b2bfeb09e4ef92c5d4b3a26b56867d86874a54\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "L:\\Remote\\braille-embosser\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\Keziah\\.android\\build-cache\\87b2bfeb09e4ef92c5d4b3a26b56867d86874a54\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "L:\\Remote\\braille-embosser\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\Keziah\\.android\\build-cache\\87b2bfeb09e4ef92c5d4b3a26b56867d86874a54\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "L:\\Remote\\braille-embosser\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\Keziah\\.android\\build-cache\\87b2bfeb09e4ef92c5d4b3a26b56867d86874a54\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "L:\\Remote\\braille-embosser\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\Keziah\\.android\\build-cache\\87b2bfeb09e4ef92c5d4b3a26b56867d86874a54\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "L:\\Remote\\braille-embosser\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\Keziah\\.android\\build-cache\\87b2bfeb09e4ef92c5d4b3a26b56867d86874a54\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "L:\\Remote\\braille-embosser\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\Keziah\\.android\\build-cache\\87b2bfeb09e4ef92c5d4b3a26b56867d86874a54\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "L:\\Remote\\braille-embosser\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\Keziah\\.android\\build-cache\\87b2bfeb09e4ef92c5d4b3a26b56867d86874a54\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "L:\\Remote\\braille-embosser\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\Keziah\\.android\\build-cache\\87b2bfeb09e4ef92c5d4b3a26b56867d86874a54\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    }
+]

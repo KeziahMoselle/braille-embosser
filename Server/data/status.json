@@ -1,0 +1,15 @@
+{
+    "success":
+    {
+        "S0": "Caractère embossé.",
+        "S1": "Phrase embossée.",
+        "PAPERF": "Demande pour avancer le papier."
+    },
+   "errors":
+    {
+        "E0": "Format de données incorrect.",
+        "E1": "Préfixe incorrect (:!* uniquement).",
+        "E2": "Vérification du caractère (0/1 uniquement).",
+        "E3": "Recharger l'embosseuse en papier."
+    }
+}

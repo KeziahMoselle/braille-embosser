@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Keziah\.android\build-cache\629fbcfc5dfb291780cf68dd7ec898d03cb19601\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="L:\Remote\braille-embosser\android\app\build\intermediates\pre-dexed\debug\classes_d043177627d4c88bf170ab9ec04811be01d7dd15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Keziah\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="L:\Remote\braille-embosser\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_51136ad120ae9c3e1fbba434881e8513f5227c05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Keziah\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="L:\Remote\braille-embosser\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_8d1bb0a8694c1e98b1d6cdad25df9340ba130322.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Keziah\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="L:\Remote\braille-embosser\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_5531e900cff4cf5937d5874fe67ec847874d4b52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Keziah\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="L:\Remote\braille-embosser\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_2c08843f2d7a24a7fb6775a321290d394557b511.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Keziah\.android\build-cache\1e06193f7666767049fd2dcc693fd70042f839c0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="L:\Remote\braille-embosser\android\app\build\intermediates\pre-dexed\debug\classes_5a18101c1d92a36cc0a8b9cd259e498809327265.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Keziah\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="L:\Remote\braille-embosser\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_fafc1e32182e72a4477ab4bd58fc0481272f8f96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Keziah\.android\build-cache\8ccd49fcb0cf1d09d0eca5a910e4b94173697804\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="L:\Remote\braille-embosser\android\app\build\intermediates\pre-dexed\debug\classes_d1751bb66ff99f1f057f3b834a075e523d357e20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Keziah\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="L:\Remote\braille-embosser\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_8cb72037b1368661e13b3fa580de047d9d05b74d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Keziah\.android\build-cache\ef8d978864dbec7455d00d6260fcae99cacf7459\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="L:\Remote\braille-embosser\android\app\build\intermediates\pre-dexed\debug\classes_086bf0099b6b249bbd0f13522609574a0cb62a40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Keziah\.android\build-cache\597d1d31834911de83a6918acb291f416198751a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="L:\Remote\braille-embosser\android\app\build\intermediates\pre-dexed\debug\classes_e72d63f40c4d4b192970445868a86cbbdeb027b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Keziah\.android\build-cache\89f77199e64ae166dc95f850ea3bbff60f6cef62\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="L:\Remote\braille-embosser\android\app\build\intermediates\pre-dexed\debug\classes_34a13fd5a3b8250d38053344c40bf3693994c7e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Keziah\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="L:\Remote\braille-embosser\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_f128f851223bdaf7cf6fa4c0daa535b5b011d56e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Keziah\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="L:\Remote\braille-embosser\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_e3cddb365d968d7840aa6c607aa8ef76e0182e0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Keziah\.android\build-cache\87b2bfeb09e4ef92c5d4b3a26b56867d86874a54\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="L:\Remote\braille-embosser\android\app\build\intermediates\pre-dexed\debug\classes_7607333563dd4120ae944c46f63d60391f490a5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Keziah\.android\build-cache\96e1f4efb374a77c5edaf326dcc2ea0519bbb2ad\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="L:\Remote\braille-embosser\android\app\build\intermediates\pre-dexed\debug\classes_fdc817c76696794830efb84d36d76297d8ebe961.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Keziah\.android\build-cache\34743b595c666b32be561e43bf1eb8f8e4297cf9\output\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="L:\Remote\braille-embosser\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_4a34aa444694c5115e5d1cc9d0fc9f9aef1f4333.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Keziah\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="L:\Remote\braille-embosser\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_8d1bb0a8694c1e98b1d6cdad25df9340ba130322.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Keziah\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="L:\Remote\braille-embosser\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_2c08843f2d7a24a7fb6775a321290d394557b511.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Keziah\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="L:\Remote\braille-embosser\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_51136ad120ae9c3e1fbba434881e8513f5227c05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Keziah\.android\build-cache\34743b595c666b32be561e43bf1eb8f8e4297cf9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="L:\Remote\braille-embosser\android\app\build\intermediates\pre-dexed\debug\classes_4978c64cbf0e37c706c356f458b8081f84c69bc8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="L:\Remote\braille-embosser\node_modules\react-native-network-info\android\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6eb22c35a9e8bf9733907ea5cf0630b931cf44de">
+        <dex dex="L:\Remote\braille-embosser\android\app\build\intermediates\pre-dexed\debug\classes_444c2e85d678080f0aaef597dd4831f918e90b3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Keziah\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="L:\Remote\braille-embosser\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_5531e900cff4cf5937d5874fe67ec847874d4b52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Keziah\.android\build-cache\70f0ab77bb903ce3dc4bee558a23b297ad6f16e9\output\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="L:\Remote\braille-embosser\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_2152f785e8a900032bff25aa2b40089768765eb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Keziah\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="L:\Remote\braille-embosser\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_fafc1e32182e72a4477ab4bd58fc0481272f8f96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Keziah\.android\build-cache\70f0ab77bb903ce3dc4bee558a23b297ad6f16e9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="99941aaaf86dc5e525cd9208c2f7c9a624f4f004">
+        <dex dex="L:\Remote\braille-embosser\android\app\build\intermediates\pre-dexed\debug\classes_ede9c83f6789abea2c6c4cfead546332ca5609c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Keziah\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="L:\Remote\braille-embosser\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_f128f851223bdaf7cf6fa4c0daa535b5b011d56e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Keziah\.android\build-cache\f02404c07e1b1145403f0e3f8aefac9805e8418f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="L:\Remote\braille-embosser\android\app\build\intermediates\pre-dexed\debug\classes_0291ac6aae0b9eb4538476c2b5b194cda4ce68f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Keziah\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="L:\Remote\braille-embosser\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_e3cddb365d968d7840aa6c607aa8ef76e0182e0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Keziah\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="L:\Remote\braille-embosser\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_8cb72037b1368661e13b3fa580de047d9d05b74d.jar" />
+    </item>
+
+</items>

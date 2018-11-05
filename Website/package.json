@@ -1,0 +1,36 @@
+{
+  "name": "website",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "material-ui": "1.0.0-beta.30",
+    "react": "16.2.0",
+    "react-dom": "16.2.0",
+    "react-scripts": "1.1.0",
+    "socket.io-client": "2.0.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "description": "Alternative to the application",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dream-io/braille-embosser.git"
+  },
+  "keywords": [
+    "react",
+    "reactjs",
+    "material-ui",
+    "websocket"
+  ],
+  "author": "KeziahMoselle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dream-io/braille-embosser/issues"
+  },
+  "homepage": "https://github.com/dream-io/braille-embosser#readme"
+}

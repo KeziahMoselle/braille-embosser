@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "L:\\Remote\\braille-embosser\\android\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Keziah\\.android\\build-cache\\87b2bfeb09e4ef92c5d4b3a26b56867d86874a54\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "L:\\Remote\\braille-embosser\\android\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Keziah\\.android\\build-cache\\87b2bfeb09e4ef92c5d4b3a26b56867d86874a54\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "L:\\Remote\\braille-embosser\\android\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Keziah\\.android\\build-cache\\87b2bfeb09e4ef92c5d4b3a26b56867d86874a54\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "L:\\Remote\\braille-embosser\\android\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Keziah\\.android\\build-cache\\87b2bfeb09e4ef92c5d4b3a26b56867d86874a54\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "L:\\Remote\\braille-embosser\\android\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Keziah\\.android\\build-cache\\87b2bfeb09e4ef92c5d4b3a26b56867d86874a54\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "L:\\Remote\\braille-embosser\\android\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Keziah\\.android\\build-cache\\87b2bfeb09e4ef92c5d4b3a26b56867d86874a54\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "L:\\Remote\\braille-embosser\\android\\app\\build\\intermediates\\res\\merged\\release\\anim\\catalyst_slide_down.xml",
+        "source": "C:\\Users\\Keziah\\.android\\build-cache\\70f0ab77bb903ce3dc4bee558a23b297ad6f16e9\\output\\res\\anim\\catalyst_slide_down.xml"
+    },
+    {
+        "merged": "L:\\Remote\\braille-embosser\\android\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Keziah\\.android\\build-cache\\87b2bfeb09e4ef92c5d4b3a26b56867d86874a54\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "L:\\Remote\\braille-embosser\\android\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Keziah\\.android\\build-cache\\87b2bfeb09e4ef92c5d4b3a26b56867d86874a54\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "L:\\Remote\\braille-embosser\\android\\app\\build\\intermediates\\res\\merged\\release\\anim\\catalyst_fade_out.xml",
+        "source": "C:\\Users\\Keziah\\.android\\build-cache\\70f0ab77bb903ce3dc4bee558a23b297ad6f16e9\\output\\res\\anim\\catalyst_fade_out.xml"
+    },
+    {
+        "merged": "L:\\Remote\\braille-embosser\\android\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Keziah\\.android\\build-cache\\87b2bfeb09e4ef92c5d4b3a26b56867d86874a54\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "L:\\Remote\\braille-embosser\\android\\app\\build\\intermediates\\res\\merged\\release\\anim\\catalyst_push_up_out.xml",
+        "source": "C:\\Users\\Keziah\\.android\\build-cache\\70f0ab77bb903ce3dc4bee558a23b297ad6f16e9\\output\\res\\anim\\catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "L:\\Remote\\braille-embosser\\android\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Keziah\\.android\\build-cache\\87b2bfeb09e4ef92c5d4b3a26b56867d86874a54\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "L:\\Remote\\braille-embosser\\android\\app\\build\\intermediates\\res\\merged\\release\\anim\\catalyst_push_up_in.xml",
+        "source": "C:\\Users\\Keziah\\.android\\build-cache\\70f0ab77bb903ce3dc4bee558a23b297ad6f16e9\\output\\res\\anim\\catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "L:\\Remote\\braille-embosser\\android\\app\\build\\intermediates\\res\\merged\\release\\anim\\catalyst_fade_in.xml",
+        "source": "C:\\Users\\Keziah\\.android\\build-cache\\70f0ab77bb903ce3dc4bee558a23b297ad6f16e9\\output\\res\\anim\\catalyst_fade_in.xml"
+    },
+    {
+        "merged": "L:\\Remote\\braille-embosser\\android\\app\\build\\intermediates\\res\\merged\\release\\anim\\catalyst_slide_up.xml",
+        "source": "C:\\Users\\Keziah\\.android\\build-cache\\70f0ab77bb903ce3dc4bee558a23b297ad6f16e9\\output\\res\\anim\\catalyst_slide_up.xml"
+    }
+]

@@ -1,0 +1,29 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Serveur Raspberry Pi",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server"
+  },
+  "author": "KeziahMoselle",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.16.2",
+    "leaf-logger": "^3.2.1",
+    "serialport": "6.0.4",
+    "socket.io": "2.0.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dream-io/braille-embosser.git"
+  },
+  "keywords": [
+    "server",
+    "nodejs"
+  ],
+  "bugs": {
+    "url": "https://github.com/dream-io/braille-embosser/issues"
+  },
+  "homepage": "https://github.com/dream-io/braille-embosser#readme"
+}

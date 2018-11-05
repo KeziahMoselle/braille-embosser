@@ -1,0 +1,4 @@
+#Thu Apr 19 00:00:22 CEST 2018
+base.0=L\:\\Remote\\braille-embosser\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=L\:\\Remote\\braille-embosser\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
