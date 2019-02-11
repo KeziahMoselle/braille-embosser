@@ -2,19 +2,35 @@
  <img src="https://i.imgur.com/4cdl3gV.png" alt="banner">
 </p>
 
+## Preview
+
 ## Project tree
 
-### Folders
+```
+|-- braille-embosser
+    |-- App                   <-- Pure React Native App
+    |   |-- App.js
+    |   |-- app.json
+    |   |-- index.js
+    |   |-- package.json
+    |   |-- assets
+    |-- Server                <-- Node server (Raspberry Pi)
+    |   |-- package.json
+    |   |-- server.js         <-- Server main file
+    |   |-- data
+    |       |-- braille.json  <-- Braille alphabet
+    |       |-- status.json   <-- Status messages
+    |-- Website               <-- React website (alternative to the App)
 
-*  `App` : Pure React Native App
-*  `Server` : Raspberry Pi NodeJS Server
-*  `Website` : ReactJS Website alternative to the App
+```
 
 ## Installing
 
 ### Prerequisites
-* Install [NodeJS](https://nodejs.org/en/) 8 or higher
+* Install [NodeJS](https://nodejs.org/en/)
 * Download [Android Studio](https://developer.android.com/studio/index.html) for AVD. (See [React Native Documentation](https://facebook.github.io/react-native/docs/getting-started.html) for further informations)
+  
+### Steps
 
 * `git clone https://github.com/KeziahMoselle/braille-embosser.git`
 * Launch the Server :
@@ -33,8 +49,8 @@
 ## Features
 
   * **Application**
-    * [x] Send text via WS to the RPI
-    * [x] Communication between App and RPI via Wi-Fi
+    * [x] Send text via WebSocket to the Raspberry Pi
+    * [x] Communication between the App and the Raspberry Pi via Wi-Fi
     * ~~Voice recognition.~~
     * ~~NFC.~~
   * **Server**

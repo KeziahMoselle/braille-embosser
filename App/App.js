@@ -1,3 +1,12 @@
+/**
+ * Braille Embosser
+ *
+ * @category Education
+ * @author Keziah MOSELLE <keziahmoselle@protonmail.com>
+ * @license http://www.opensource.org/licenses/mit-license.html MIT License
+ * @link https://github.com/dream-io/braille-embosser
+ */
+
 import React from 'react';
 import {View,StyleSheet} from 'react-native';
 import {
@@ -24,6 +33,7 @@ import {
   Toast,
   Fab
 } from 'native-base';
+// Récupère le thème de couleur de Native Base
 import getTheme from './native-base-theme/components';
 import commonColor from  './native-base-theme/variables/commonColor';
 import SocketIOClient from 'socket.io-client';

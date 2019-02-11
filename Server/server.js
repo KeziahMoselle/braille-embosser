@@ -1,3 +1,21 @@
+/**
+ * Braille Embosser
+ *
+ * Server
+ * Acquérir les données
+ * Encoder le braille
+ * Passerelle entre l'Application et l'Arduino
+ *
+ * @category Education
+ * @author KeziahMoselle <keziahmoselle@protonmail.com>
+ * @author Leafgard <dev@leafgard.fr>
+ * @license http://www.opensource.org/licenses/mit-license.html MIT License
+ * @link https://github.com/dream-io/braille-embosser
+ */
+
+/**
+ * Packages
+ */
 // Logger
 const Logger = require('leaf-logger');
 // ExpressJS
