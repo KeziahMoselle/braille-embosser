@@ -9,6 +9,8 @@
  <img width="200" src="./preview2.jpg" alt="preview">
 </p>
 
+## [Read the documentation (FR)](./documentation.pdf)
+
 ## Project tree
 
 ```
