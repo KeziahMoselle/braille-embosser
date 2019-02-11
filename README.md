@@ -4,6 +4,11 @@
 
 ## Preview
 
+<p align="center">
+ <img width="200" src="./preview.jpg" alt="preview">
+ <img width="200" src="./preview2.jpg" alt="preview">
+</p>
+
 ## Project tree
 
 ```
