@@ -1,15 +1,19 @@
 <p align="center">
- <img src="https://i.imgur.com/4cdl3gV.png" alt="banner">
+ <img src="./.github/cover.png" alt="banner">
 </p>
 
 ## Preview
 
 <p align="center">
- <img width="200" src="./preview.jpg" alt="preview">
- <img width="200" src="./preview2.jpg" alt="preview">
+ <img width="200" src="./.github/preview.jpg" alt="preview">
+ <img width="200" src="./.github/preview2.jpg" alt="preview">
 </p>
 
 ## [Read the documentation (FR)](./documentation.pdf)
+
+<p align="center">
+ <img width="500" src="./.github/osi.jpg" alt="OSI">
+</p>
 
 ## Project tree
 
@@ -34,7 +38,7 @@
 ## Installing
 
 ### Prerequisites
-* Install [NodeJS](https://nodejs.org/en/)
+* Have [Node.js](https://nodejs.org/en/) installed (> 8)
 * Download [Android Studio](https://developer.android.com/studio/index.html) for AVD. (See [React Native Documentation](https://facebook.github.io/react-native/docs/getting-started.html) for further informations)
   
 ### Steps
