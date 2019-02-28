@@ -9,7 +9,7 @@
  <img width="200" src="./.github/preview2.jpg" alt="preview">
 </p>
 
-## [Read the documentation (FR)](./documentation.pdf)
+## [Read the documentation (FR)](./.github/documentation.pdf)
 
 <p align="center">
  <img width="500" src="./.github/osi.jpg" alt="OSI">
